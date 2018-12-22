@@ -1,0 +1,15 @@
+.container {
+    margin-block-start: 20px;
+    text-align: center;
+    background: #dddddd;
+    padding: 15px;
+    width: 700px;
+    }
+    
+#inputField {
+background: #eeeeee;
+font-size: 1em;
+font-family: 'Courier New', Courier, monospace; 
+color: black;
+font-weight: bold;
+}

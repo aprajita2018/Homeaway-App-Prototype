@@ -1,0 +1,18 @@
+exports.kafka_topic_enums = {
+    // LOGIN           :  'login_topic',
+    // SIGNUP          :  'signup_topic',
+    //LOGOUT              :  'logout_topic',
+    USERDETAILS         :  'userdetails_topic',
+    UPDATEUSERDETAILS   :  'updateuserdetails_topic',
+    USERDETAILSBYID     :  'userdetailsbyid_topic',
+    SENDMSG             :   'sendmsg_topic',
+    RECEIVEMSG          :   'receivemsg_topic',
+    //LISTPROPERTY        :  'listproperty_topic',
+    FETCHPROPERTY       :  'fetchproperty_topic',
+    FETCHPROPERTIES     :  'fetchproperties_topic',
+    SEARCHPROPERTIES    :  'searchproperties_topic',
+    FETCHOWNER          :  'fetchowner_topic',
+    FETCHBOOKINGS       :  'fetchbookings_topic',
+    //BOOKPROPERTY        :  'bookproperty_topic',
+    BOOKINGDETAILS      :  'bookingdetails_topic',
+};
